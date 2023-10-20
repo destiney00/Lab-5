@@ -1,0 +1,76 @@
+:root {
+    /* color of text for walter white's activity.
+       If you decide not to duplicate & create your own,
+       don't forget to change the variable name & value */
+    --yellow: #fff54f;
+}
+
+/* edit the body as you'd like, color, images, aligning */
+body {
+    text-align: center;
+}
+
+
+
+/*** TITLES ***/
+h1 {
+    /* font size of text for walter white's activity.
+     If you decide not to duplicate & create your own,
+     don't forget to change the font size */
+    font-size: 112px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(86, 193, 86);
+}
+
+h2 {
+    /* font size & family of text for walter white's activity.
+     If you decide not to duplicate & create your own,
+     don't forget to change the font size & family */
+    font-size: 40px;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    color: rgb(86, 193, 86);
+}
+
+
+
+/*** IMAGES ***/
+/* Your row = container
+     Your column = items
+     Hint: look into: display, flex-wrap
+     justy-content, align-items, gap*/
+
+
+
+img {
+    height: 100px;
+}
+
+
+
+/*** LOLLIPOP CONTENT ***/
+p {
+    /* font size of text for walter white's activity.
+     If you decide not to duplicate & create your own,
+     don't forget to change the font size */
+    font-size: 25px;
+    color: rgb(86, 193, 86);
+}
+
+
+
+/*** BUTTONS & SQUARE ***/
+/* To align your images without text-align
+     Look into display block & box model */
+
+/* You can give divs a property of height */
+
+
+
+/*** FOOTER ***/
+/* To remove the bullet pts, look into list-style-type
+     To have them all in one line, look into display inline */
+
+#fifthrow {
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+}
